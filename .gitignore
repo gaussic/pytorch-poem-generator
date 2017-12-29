@@ -1,0 +1,5 @@
+.DS_Store
+data/json
+*.xml
+*.iml
+.idea
